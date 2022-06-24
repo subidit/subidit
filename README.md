@@ -1,6 +1,8 @@
+![](https://picsum.photos/800/200)
+
 ### Hi there 👋
 
-![](https://picsum.photos/800/300)
+
 <!--
 **subidit/subidit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
