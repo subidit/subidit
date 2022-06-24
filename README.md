@@ -1,4 +1,4 @@
-![](https://picsum.photos/800/250)
+![](https://picsum.photos/800/150)
 
 ### Hi there 👋
 
