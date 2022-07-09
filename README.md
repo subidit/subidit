@@ -4,12 +4,11 @@
 
 Here are some ideas about me:
 
-- 🔭 I’m currently working on *Data Visualization*.
-- 🌱 I’m currently learning P5.js
-- 👯 I’m looking to collaborate on lightweight projects.
+- 🔭 I’m currently working on *P5.js* 
+- 🌱 I’m currently learning *Data Visualization*.
+- 👯 I’m looking to collaborate on fun side-projects.
 - 🤔 I’m looking for help with Design and Art appreciation.
 - 💬 Ask me about SEO tips and tricks.
-- 📫 How to reach me: **subidit.nandy [at] gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like fonts, flags and films.
 
