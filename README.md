@@ -2,6 +2,16 @@
 
 ### Hi there 👋
 
+Here are some ideas about me:
+
+- 🔭 I’m currently working on *Data Visualization*.
+- 🌱 I’m currently learning P5.js
+- 👯 I’m looking to collaborate on lightweight projects.
+- 🤔 I’m looking for help with Design and Art appreciation.
+- 💬 Ask me about SEO tips and tricks.
+- 📫 How to reach me: **subidit.nandy [at] gmail.com**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like fonts, flags and films.
 
 <!--
 **subidit/subidit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
