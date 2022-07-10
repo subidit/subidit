@@ -1,11 +1,10 @@
-![](https://picsum.photos/1600/455)
+![](https://picsum.photos/1600/453)
 
 ### Hi there 👋
 
 Here are some ideas about me:
 
-- 🔭 I’m currently working on *P5.js* 
-- 🌱 I’m currently learning *Data Visualization*.
+- 🔭 I’m currently learning *Data Visualization*.
 - 👯 I’m looking to collaborate on fun side-projects.
 - 🤔 I’m looking for help with Design and Art appreciation.
 - 💬 Ask me about famous chair designs.
