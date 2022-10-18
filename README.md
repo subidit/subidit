@@ -1,10 +1,8 @@
-![](https://picsum.photos/1600/550)
+![](https://picsum.photos/1600/500)
 
 ### Hi there 👋
 
 Here are some ideas about me:
-
-- 💬 Ask me about famous chair designs.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like fonts, flags and films.
 
