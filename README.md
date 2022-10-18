@@ -1,12 +1,9 @@
-![](https://picsum.photos/1600/450)
+![](https://picsum.photos/1600/550)
 
 ### Hi there 👋
 
 Here are some ideas about me:
 
-- 🔭 I’m currently learning *Data Visualization*.
-- 👯 I’m looking to collaborate on fun side-projects.
-- 🤔 I’m looking for help with Design and Art appreciation.
 - 💬 Ask me about famous chair designs.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like fonts, flags and films.
