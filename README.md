@@ -1,9 +1,12 @@
-![](https://picsum.photos/1600/500)
+![](https://picsum.photos/1600/400)
 
 ### Hi there 👋
 
 Here are some ideas about me:
-- 😄 Pronouns: He/Him
+- 🌱 I’m always learning `SQL` & `Python`.
+- 👯 I’m looking to collaborate on project documetations.
+- 🤔 I’m looking for help with Data Visualisation.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like fonts, flags and films.
 
 <!--
