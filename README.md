@@ -1,5 +1,7 @@
 ![](https://picsum.photos/1600/400)
 
+<img src="Investment.png" align="right" width="400" height="370">
+
 ### Hi there 👋
 
 Here are some ideas about me:
