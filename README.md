@@ -1,6 +1,6 @@
 ![](https://picsum.photos/1600/400)
 
-<img src="fireworks.svg" align="right" width="300">
+<img src="fireworks.svg" align="right">
 
 ### Hi there 👋
 
