@@ -1,4 +1,4 @@
-![](https://picsum.photos/1600/400)
+![](https://picsum.photos/1400/400)
 
 
 
