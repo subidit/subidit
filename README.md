@@ -1,6 +1,6 @@
 ![](https://picsum.photos/1600/400)
 
-<img src="fireworks.svg" align="right" height="250">
+
 
 ### Hi there 👋
 
@@ -24,4 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="fireworks.svg" align="right" height="250">
 -->
