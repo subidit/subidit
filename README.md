@@ -1,7 +1,3 @@
-![](https://picsum.photos/1400/400)
-
-
-
 ### Hi there 👋
 
 Here are some ideas about me:
@@ -24,6 +20,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![](https://picsum.photos/1400/400)
+
+
 
 <img src="fireworks.svg" align="right" height="250">
 -->
