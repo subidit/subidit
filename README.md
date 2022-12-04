@@ -1,4 +1,4 @@
-![image](https://github.com/subidit/subidit/blob/main/fireworks.svg)
+![image](https://github.com/subidit/subidit/blob/main/image-3.png)
 
 ### Hi there 👋
 
