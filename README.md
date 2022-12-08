@@ -1,4 +1,4 @@
-![](https://github.com/subidit/subidit/blob/main/image1.jpg)
+<a>![image](https://github.com/subidit/subidit/blob/main/image1.jpg)</a>
 
 ### Hi there 👋
 
