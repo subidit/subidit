@@ -1,7 +1,8 @@
 ![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
 
 ### Hi there 👋
-
+My name is **Subidit Nandy**.
+<!--
 Here are some ideas about me:
 - 🌱 Languages: `SQL`, `Python` & `JavaScript`.
 - 👯 I’m looking to collaborate on project documetations.
@@ -9,7 +10,7 @@ Here are some ideas about me:
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like fonts, flags and films.
 
-<!--
+
 **subidit/subidit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
