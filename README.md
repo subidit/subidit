@@ -5,7 +5,7 @@ My name is **Subidit Nandy**.
 
 Here are some ideas about me:
 - 🌱 Languages: `SQL`, `Swift`, `Python` & `JavaScript`.
-- 🧐 Interests: Data Visualisation, Topography, Design & Entrepreneurship. 
+- 🧐 Interests: Data Visualisation, Topography & Design. 
 
 <!--
 Here are some ideas about me:
