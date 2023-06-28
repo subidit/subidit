@@ -2,9 +2,14 @@
 
 ### Hi there 👋
 My name is **Subidit Nandy**.
+
+Here are some ideas about me:
+- 🌱 Languages: `SQL`, `Swift`, `Python` & `JavaScript`.
+- 🧐 Interests: Data Visualisation, Topography, Design & Entrepreneurship. 
+
 <!--
 Here are some ideas about me:
-- 🌱 Languages: `SQL`, `Python` & `JavaScript`.
+- 🌱 
 - 👯 I’m looking to collaborate on project documetations.
 - 🤔 I’m looking for help with Data Visualisation.
 - 😄 Pronouns: He/Him.
