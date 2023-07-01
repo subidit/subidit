@@ -3,8 +3,7 @@
 ### Hi there 👋
 My name is **Subidit Nandy**.
 
-Here are some ideas about me:
-- 🧐 Interests: Data Visualisation, Topography & Design. 
+I like Data Visualisation, Topography & Design. 
 
 <!--
 Here are some ideas about me:
