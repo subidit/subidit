@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
-
 ### Hi there 👋
 My name is **Subidit Nandy**.
 
@@ -30,7 +28,7 @@ Here are some ideas to get you started:
 
 ![](https://picsum.photos/1400/400)
 
-
+![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
 
 <img src="fireworks.svg" align="right" height="250">
 -->
