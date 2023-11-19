@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Subidit Nandy**.
 
-- 🫶 I like Data Visualisation, Topography & Design. 
+- 🫶 I like Data Visualisation, *Topography* & **Design**. 
 - 🧠 Languages: `SQL`, `Swift`, `Python` & `JavaScript`.
 
 
