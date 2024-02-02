@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is **SUBIDIT NANDY**.
 
-- 🫶 Data Visualisation, *Topography* & **Design**. 
-- 🧠 `SQL`, `Swift`, `Python` & `JavaScript`.
+- 🫶 Data Visualisation, Topography, Design. 
+- 🧠 `Python`, `JavaScript`, `SQL`.
 
 
 <!--
