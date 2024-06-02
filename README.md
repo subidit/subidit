@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is **SUBIDIT NANDY**.
 
-- 🫶 Data Visualisation, Topography, Design. 
+- 🫶 Data Visualisation, Design & typography. 
 - 🧠 `Python`, `JavaScript`, `SQL`.
-
+- ![](https://komarev.com/ghpvc/?username=subidit&color=red&label=Visitor+No.&base=17000)
 
 <!--
 Here are some ideas about me:
